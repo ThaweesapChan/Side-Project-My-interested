@@ -1,5 +1,5 @@
 import { Linkedin, Github, Mail } from "lucide-react";
-export default function Footer() {
+export function Footer() {
   return (
     <footer className="bg-[#EFEEEB] p-8 flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
       <div className="flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6">
