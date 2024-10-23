@@ -7,7 +7,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-export default function ArticlesSection() {
+export default function Articles() {
   return (
     <div className="w-full max-w-7xl mx-auto md:px-6 lg:px-8 mb-10">
       <h2 className="text-xl font-bold mb-4 px-4">Latest articles</h2>
